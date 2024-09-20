@@ -2,7 +2,6 @@
 
 ### Golden Circle
 <br/>
-
 - Why? Provide security and transparency in direct elections.
 
 - How? A simple but efficient interface system that counts votes safely and quickly.
