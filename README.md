@@ -18,9 +18,11 @@
 ## 
 
   <a target="_blank" href="mailto:votoveritas@gmail.com"> <img height="30" width="120" alt="Email-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
-  
+
+
 ## ToolBoxes
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
 </div><br>
