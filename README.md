@@ -1,6 +1,5 @@
 # Voto Veritas
-## Here your vote only tells the truth
-
+### With us, your vote tells only the truth
 <br/>
 
 - Why? Provide security and transparency in direct elections.
