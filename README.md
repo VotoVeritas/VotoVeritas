@@ -1,6 +1,6 @@
 # Voto Veritas
 
-## Golden Circle
+### Golden Circle
 <br/>
 
 - Why? Provide security and transparency in direct elections.
