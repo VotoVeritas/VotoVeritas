@@ -17,9 +17,12 @@
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
 
 ## IDEs
-![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
+<img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Canva.png">
+<img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Trello.png">
+<img align= "center" alt="VotoVeritas-Eclipse" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Eclipse.png">
+<img align= "center" alt="VotoVeritas-Github" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/GitHub.png">
+<img align= "center" alt="VotoVeritas-SceneB" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/SceneB.png">
+<img align= "center" alt="VotoVeritas-SceneB" height="45" width="55" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/SceneB.png">
 
 ## Contact us
 
