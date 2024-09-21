@@ -24,9 +24,7 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
-<br>
-
-<p align="Center" height="100"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
 </div><br>
 
