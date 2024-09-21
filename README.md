@@ -1,4 +1,5 @@
-<img align= "center" alt="VotoVeritas-Canva" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
+<img align= "center" alt="VotoVeritas-Banner" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=yellow" alt="Profile views" /> </p>
 
 # Voto Veritas
 ### With us, your vote tells only the truth
@@ -17,6 +18,8 @@
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
   
 ## Owners
+
+<img align="center" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
 
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
