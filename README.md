@@ -12,6 +12,7 @@
 <div align="center">
 
 <div align-items="center">
+  
 ## Organization and design applications
 
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
