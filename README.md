@@ -19,7 +19,7 @@
 ## IDEs
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
-![NerBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
 ## Contact us
 
