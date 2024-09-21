@@ -20,7 +20,7 @@
 ## IDEs
 <img align= "center" alt="VotoVeritas-Eclipse" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Eclipse.png">
 <img align= "center" alt="VotoVeritas-SceneB" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/SceneB.png">
-<img align= "center" alt="VotoVeritas-NetBeans" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/NetBeans.png">
+<img align= "center" alt="VotoVeritas-NetBeans" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Netbeans.png">
 
 ## Contact us
 
