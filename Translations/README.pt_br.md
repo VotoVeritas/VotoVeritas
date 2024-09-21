@@ -24,5 +24,5 @@
 
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Português" alt="Ensglish" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Readme.md)</kbd>
-<kbd>[<img title="Espanhol" alt="Espanhol" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
+<kbd>[<img title="Spanish" alt="Espanhol" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
 
