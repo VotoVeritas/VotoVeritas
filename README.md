@@ -9,6 +9,7 @@
 
 <div align="center">
 ## Supporting and Editing apps
+  
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
   
