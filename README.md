@@ -16,7 +16,7 @@
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
   
-## 
+## Contact us
 
   <a target="_blank" href="mailto:votoveritas@gmail.com"> <img height="30" width="120" alt="Email-VotoVeritas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=yellow" alt="Profile views" /> </p>
+<p align="Center" height="45" width="55"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
 </div><br>
 
