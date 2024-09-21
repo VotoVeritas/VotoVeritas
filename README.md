@@ -27,6 +27,17 @@
   <a target="_blank" href="mailto:votoveritas@gmail.com"> <img height="30" width="120" alt="Email-VotoVeritas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
+## Our employees
+
+| Nome              | Perfil                |
+|-------------------|----------------------|
+| ![Ana Beatriz](https://avatars.githubusercontent.com/AnaBeatrizCarvalhoMenezes) | [Ana Beatriz](https://github.com/AnaBeatrizCarvalhoMenezes) |
+| ![Arthur Lima](https://avatars.githubusercontent.com/Arthur-Lima07) | [Arthur Lima](https://github.com/Arthur-Lima07) |
+| ![Saul Ramos](https://avatars.githubusercontent.com/hattasho) | [Saul Ramos](https://github.com/hattasho) |
+| ![Isaac Ramos](https://avatars.githubusercontent.com/IsaacMaf) | [Isaac Ramos](https://github.com/IsaacMaf) |
+| ![Cauã Rodrigues](https://avatars.githubusercontent.com/CauaRodrigues08) | [Cauã Rodrigues](https://github.com/CauaRodrigues08) |
+
+
 </div>
 
 #### _Read this in [other languages](Translations/translations.md)._
