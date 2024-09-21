@@ -27,7 +27,7 @@
   <a target="_blank" href="mailto:votoveritas@gmail.com"> <img height="30" width="120" alt="Email-VotoVeritas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
-</div><br>
+</div>
 
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
