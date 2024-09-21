@@ -7,7 +7,7 @@
 
 - What? Security company specialized in electoral security, offering the highest quality electronic voting machines.
 
-## Supporting and Editing apps
+## Organization and design applications
 <div align="center">
   
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
@@ -24,4 +24,4 @@
 
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Espanhol" alt="Espanhol" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
+<kbd>[<img title="Espanhol" alt="Spanish" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
