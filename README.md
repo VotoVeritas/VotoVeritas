@@ -1,4 +1,4 @@
-<img <style>border-radius: 15px;</style> align= "center" alt="VotoVeritas-Canva" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
+<img class="imagemarredondada" align= "center" alt="VotoVeritas-Canva" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
 
 # Voto Veritas
 ### With us, your vote tells only the truth
@@ -27,3 +27,10 @@
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Espanhol" alt="Spanish" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
+
+
+<style>
+        .imagemarredondada {
+            border-radius: 15px;
+        }
+</style>
