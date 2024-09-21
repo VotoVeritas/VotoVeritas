@@ -11,17 +11,21 @@
 
 ## Aplicaciones de organización y diseño
   
-  <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
-  <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
+  <img align= "center" alt="VotoVeritas-Canva" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Canva.png">
+<img align= "center" alt="VotoVeritas-Trello" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Trello.png">
+<img align= "center" alt="VotoVeritas-Github" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/GitHub.png">
   
-## 
+## IDEs
+<img align= "center" alt="VotoVeritas-Eclipse" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Eclipse.png">
+<img align= "center" alt="VotoVeritas-SceneB" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/SceneB.png">
+<img align= "center" alt="VotoVeritas-NetBeans" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Netbeans.png">
+
+## Contáctenos
 
   <a target="_blank" href="mailto:votoveritas@gmail.com"> <img height="30" width="120" alt="Email-VotoVeritas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
-## IDEs
-![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
-</div><br>
+</div>
 
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Ensglish" alt="Inglês" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png" width="60">](README.eng.md)</kbd>
