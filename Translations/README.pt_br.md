@@ -40,6 +40,6 @@
 </div>
 
 #### _Read this in [other languages](Translations/translations.md)._
-<kbd>[<img title="English" alt="Inglês" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png" width="60">](Translations/README.eng.md)</kbd>
-<kbd>[<img title="Spanish" alt="Espanhol" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
+<kbd>[<img title="English" alt="Inglês" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png" width="60">](README.eng.md)</kbd>
+<kbd>[<img title="Spanish" alt="Espanhol" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](README.esp.md)</kbd>
 
