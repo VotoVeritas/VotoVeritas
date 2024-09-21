@@ -1,11 +1,11 @@
 # Voto Veritas
 ### Conosco, seu voto diz apenas a verdade
 
--Por que? Nossa empresa oferece segurança e transparência nas eleições diretas.
+- Por que? Nossa empresa oferece segurança e transparência nas eleições diretas.
 
--Como? Um sistema de interface simples, mas eficiente, que contabiliza votos com segurança e rapidez.
+- Como? Um sistema de interface simples, mas eficiente, que contabiliza votos com segurança e rapidez.
 
--Que? Empresa de segurança especializada em segurança eleitoral, oferecendo urnas eletrônicas da mais alta qualidade.
+- Que? Empresa de segurança especializada em segurança eleitoral, oferecendo urnas eletrônicas da mais alta qualidade.
 
 ## Aplicações de organização e design
 <div align="center">
