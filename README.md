@@ -7,8 +7,8 @@
 
 - What? Security company specialized in electoral security, offering the highest quality electronic voting machines.
 
-<div align="center">
 ## Supporting and Editing apps
+<div align="center">
   
   <img align= "center" alt="VotoVeritas-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="VotoVeritas-Trello" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
