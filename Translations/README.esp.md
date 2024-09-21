@@ -36,6 +36,6 @@
 
 </div>
 
-#### _Read this in [other languages](Translations/translations.md)._
+#### _Read this in other languages_
 <kbd>[<img title="Ensglish" alt="Inglês" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png" width="60">](README.eng.md)</kbd>
 <kbd>[<img title="Portuguese" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](README.pt_br.md)</kbd>
