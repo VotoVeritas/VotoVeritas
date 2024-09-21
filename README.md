@@ -1,5 +1,4 @@
 <img align= "center" alt="VotoVeritas-Banner" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=yellow" alt="Profile views" /> </p>
 
 # Voto Veritas
 ### With us, your vote tells only the truth
@@ -31,6 +30,11 @@
 ## IDEs
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=yellow" alt="Profile views" /> </p>
+
 </div><br>
 
 #### _Read this in [other languages](Translations/translations.md)._
