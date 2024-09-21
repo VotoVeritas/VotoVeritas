@@ -1,4 +1,4 @@
-<img align= "center" alt="VotoVeritas-Banner" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.jpeg">
+<img align= "center" alt="VotoVeritas-Banner" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/EnglishBanner.png">
 
 # Voto Veritas
 ### With us, your vote tells only the truth
