@@ -1,13 +1,11 @@
 # Voto Veritas
 ### With us, your vote tells only the truth
-<br/>
 
 - Why? Our company provide security and transparency in direct elections.
 
 - How? A simple but efficient interface system that counts votes safely and quickly.
 
 - What? Security company specialized in electoral security, offering the highest quality electronic voting machines.
-<br/>
 
 ## Editing apps
 
