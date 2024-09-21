@@ -26,7 +26,7 @@
 
 <br>
 
-<p align="Center" height="45" width="55"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
+<p align="Center" height="100"> <img src="https://komarev.com/ghpvc/?username=VotoVeritas&color=blue" alt="Profile views" /> </p>
 
 </div><br>
 
