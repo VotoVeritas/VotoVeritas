@@ -29,13 +29,8 @@
 
 ## Our employees
 
-| Nome              | Perfil                |
 |-------------------|----------------------|
-| <img src="https://avatars.githubusercontent.com/AnaBeatrizCarvalhoMenezes" alt="Ana Beatriz" width="45" height="45"> | [Ana Beatriz](https://github.com/AnaBeatrizCarvalhoMenezes) |
-| <img src="https://avatars.githubusercontent.com/Arthur-Lima07" alt="Arthur Lima" width="45" height="45"> | [Arthur Lima](https://github.com/Arthur-Lima07) |
-| <img src="https://avatars.githubusercontent.com/hattasho" alt="Saul Ramos" width="45" height="45"> | [Saul Ramos](https://github.com/hattasho) |
-| <img src="https://avatars.githubusercontent.com/IsaacMaf" alt="Isaac Ramos" width="45" height="45"> | [Isaac Ramos](https://github.com/IsaacMaf) |
-| <img src="https://avatars.githubusercontent.com/CauaRodrigues08" alt="Cauã Rodrigues" width="45" height="45"> | [Cauã Rodrigues](https://github.com/CauaRodrigues08) |
+| <img src="https://avatars.githubusercontent.com/AnaBeatrizCarvalhoMenezes" alt="Ana Beatriz" width="45" height="45"> | [Ana Beatriz](https://github.com/AnaBeatrizCarvalhoMenezes) | | <img src="https://avatars.githubusercontent.com/Arthur-Lima07" alt="Arthur Lima" width="45" height="45"> | [Arthur Lima](https://github.com/Arthur-Lima07) | | <img src="https://avatars.githubusercontent.com/hattasho" alt="Saul Ramos" width="45" height="45"> | [Saul Ramos](https://github.com/hattasho) | | <img src="https://avatars.githubusercontent.com/IsaacMaf" alt="Isaac Ramos" width="45" height="45"> | [Isaac Ramos](https://github.com/IsaacMaf) | | <img src="https://avatars.githubusercontent.com/CauaRodrigues08" alt="Cauã Rodrigues" width="45" height="45"> | [Cauã Rodrigues](https://github.com/CauaRodrigues08) |
 
 </div>
 
