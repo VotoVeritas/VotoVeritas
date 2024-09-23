@@ -7,7 +7,7 @@
 
 - Como? Um sistema de interface simples, mas eficiente, que contabiliza votos com segurança e rapidez.
 
-- Que? Empresa de segurança especializada em segurança eleitoral, oferecendo urnas eletrônicas da mais alta qualidade.
+- O Que? Empresa de segurança especializada em segurança eleitoral, oferecendo urnas eletrônicas da mais alta qualidade.
 
 <div align="center">
 
