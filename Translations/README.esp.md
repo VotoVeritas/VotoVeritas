@@ -15,6 +15,9 @@
 <img align= "center" alt="VotoVeritas-Trello" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Trello.png">
 <img align= "center" alt="VotoVeritas-Github" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/GitHub.png">
 <img align= "center" alt="VotoVeritas-DrawIo" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/DrawIo.png">
+<img align= "center" alt="VotoVeritas-IbisPaint" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/IbisPaint.png">
+<img align= "center" alt="VotoVeritas-ClipStudioPaint" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/ClipStudioPaint.png">
+
 
   
 ## IDEs
