@@ -17,11 +17,14 @@
 <img align= "center" alt="VotoVeritas-Trello" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Trello.png">
 <img align= "center" alt="VotoVeritas-Github" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/GitHub.png">
 <img align= "center" alt="VotoVeritas-DrawIo" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/DrawIo.png">
+<img align= "center" alt="VotoVeritas-IbisPaint" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/IbisPaint.png">
+<img align= "center" alt="VotoVeritas-ClipStudioPaint" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/ClipStudioPaint.png">
 
 ## IDEs
 <img align= "center" alt="VotoVeritas-Eclipse" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Eclipse.png">
 <img align= "center" alt="VotoVeritas-SceneB" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/SceneB.png">
 <img align= "center" alt="VotoVeritas-NetBeans" height="45" width="45" src="https://github.com/VotoVeritas/VotoVeritas/blob/main/Imagens/Netbeans.png">
+
 
 ## Contact us
 
